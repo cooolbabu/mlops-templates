@@ -1,3 +1,5 @@
+This is a fork of Azure/mlops-templates
+
 # Azure MLOps (v2) Solution Accelerator
 
 Welcome to the MLOps (v2) solution accelerator repository! This project is intended to serve as the starting point for MLOps implementation in Azure. The main repository from where you can start can be found in this [main README file](https://github.com/Azure/mlops-v2/blob/main/README.md)
